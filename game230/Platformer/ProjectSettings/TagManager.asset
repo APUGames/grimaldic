@@ -11,10 +11,10 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
+  - Foreground
+  - Player
+  - Climbing
+  - Background
   - 
   - 
   - 
@@ -41,12 +41,21 @@ TagManager:
   - name: Background
     uniqueID: 2645926657
     locked: 0
+  - name: Water
+    uniqueID: 561347929
+    locked: 0
   - name: Foreground
     uniqueID: 1824667397
     locked: 0
   - name: Default
     uniqueID: 0
     locked: 1
+  - name: Climbing
+    uniqueID: 1954749509
+    locked: 0
   - name: Player
     uniqueID: 2031045253
+    locked: 0
+  - name: Foreground fixes
+    uniqueID: 3616018497
     locked: 0
