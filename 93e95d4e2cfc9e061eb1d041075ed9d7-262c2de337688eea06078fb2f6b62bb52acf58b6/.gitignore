@@ -1,0 +1,43 @@
+# Keep these Git files
+!.gitignore
+!.gitattributes
+!README.md
+
+# Ignore these Unity generated directories
+[Tt]emp/
+[Oo]bj/
+[Bb]uilds/
+[Ll]ibrary/
+[Ll]ogs/
+
+# Keep these Unity generated directories
+!Assets/
+!ProjectSettings/
+!UserSettings/
+![Pp]ackages/
+
+# Keep this directory
+!GameBuilds/
+
+# Ignore these Visual Studio / MonoDevelop generated files
+ExportedObj/
+obj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+.vsconfig
+*.booproj
+
+# Ignore these OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
